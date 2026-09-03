@@ -1,0 +1,5 @@
+resource_group_name  = "terraform-task-2-rg"
+location             = "WestUS"
+storage_account_name = "terraformtask2sa"
+container_name       = "terraformtask2container"
+blob_name            = "terraformtask2blob"
